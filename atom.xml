@@ -6,7 +6,7 @@
   <author>
     <name>Cokaps</name>
   </author>
-  <updated>2021-06-13T07:49:40.082Z</updated>
+  <updated>2021-06-13T07:58:20.788Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://vuepress-theme-hope.github.io/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope.github.io/"/>
@@ -31,7 +31,7 @@
     <title type="html">Home</title>
     <id>https://vuepress-theme-hope.github.io/</id>
     <link href="https://vuepress-theme-hope.github.io/"/>
-    <updated>2021-06-13T07:49:55.209Z</updated>
+    <updated>2021-06-13T07:58:39.619Z</updated>
     <content type="html"><![CDATA[$1]]></content>
     <author>
       <name>Cokaps</name>
@@ -45,7 +45,7 @@
     <title type="html">WEBSITE DISCLAIMER</title>
     <id>https://vuepress-theme-hope.github.io/disclamer/</id>
     <link href="https://vuepress-theme-hope.github.io/disclamer/"/>
-    <updated>2021-06-13T07:49:55.222Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h1 id="introduction"> INTRODUCTION</h1>
 <p>The information provided by [business entity name] (“we,” “us” or “our”) on [website name] (the “Site”) [and our mobile application] is for general informational purposes only. All information on the Site [and our mobile application] is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site [or our mobile application].</p>
 <p>Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site [or our mobile application] or reliance on any information provided on the site [and our mobile application]. Your use of the site [and our mobile application] and your reliance on any information on the site [and our mobile application] is solely at your own risk. This disclaimer template was created using Termly.</p>
@@ -76,7 +76,7 @@
     <title type="html">I7-9700K + Z390 GAMING X</title>
     <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i7-9700k-z390-gaming-x.html</id>
     <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i7-9700k-z390-gaming-x.html"/>
-    <updated>2021-06-13T07:49:55.222Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h2 id="made-by-unknown-collected-by-liz-hoang"> Made by Unknown (Collected by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a>)</h2>
 <h2 id="cau-hinh"> Cấu hình</h2>
 <ul>
@@ -106,7 +106,7 @@
     <title type="html">I9-9900K + Asus Z390-PRO GAMING + RT5700XT</title>
     <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i9-9900K-Asus-z390-pro-gaming-rt5700xt.html</id>
     <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i9-9900K-Asus-z390-pro-gaming-rt5700xt.html"/>
-    <updated>2021-06-13T07:49:55.222Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h2 id="made-by-unknown-collected-by-liz-hoang"> Made by Unknown (Collected by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a>)</h2>
 <h2 id="cau-hinh"> Cấu hình</h2>
 <ul>
@@ -136,7 +136,7 @@
     <title type="html">Ryzen 5 3500X + MSI B450M</title>
     <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-5-3500x-msi-b450m.html</id>
     <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-5-3500x-msi-b450m.html"/>
-    <updated>2021-06-13T07:49:55.223Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h2 id="made-by-liz-hoang"> Made by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a></h2>
 <h2 id="cau-hinh"> Cấu hình</h2>
 <ul>
@@ -166,7 +166,7 @@
     <title type="html">Ryzen 7 1700 + RX570 + Asrock x370</title>
     <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-7-1700-rx570-asrock-x370.html</id>
     <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-7-1700-rx570-asrock-x370.html"/>
-    <updated>2021-06-13T07:49:55.223Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h2 id="made-by-tijmen"> Made by <a href="https://github.com/Tiemon-hoi" target="_blank" rel="noopener noreferrer">Tijmen</a></h2>
 <h2 id="cau-hinh"> Cấu hình</h2>
 <ul>
@@ -196,7 +196,7 @@
     <title type="html">MSI Z490 Tomahawk</title>
     <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/z490%20tomahawk.html</id>
     <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/z490%20tomahawk.html"/>
-    <updated>2021-06-13T07:49:55.223Z</updated>
+    <updated>2021-06-13T07:58:39.637Z</updated>
     <content type="html"><![CDATA[<template><h2 id="made-by-nguyen-minh-son"> Made by <a href="https://www.facebook.com/son01490517" target="_blank" rel="noopener noreferrer">Nguyễn Minh Sơn</a></h2>
 <h2 id="cau-hinh"> Cấu hình</h2>
 <ul>
