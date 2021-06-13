@@ -21,11 +21,6 @@ module.exports = {
 
     author: "Cokaps",
     repo: "https://github.com/efi-collection/database",
-    docsRepo: "https://github.com/efi-collection/efi-collection.github.io",
-    repoDisplay: true,
-    docsBranch: "master",
-    docsDir: "blog/",
-    editLinkText: "Thêm EFI của bạn!",
 
     navbar: [
         { text: "About", link: "/about/"},
