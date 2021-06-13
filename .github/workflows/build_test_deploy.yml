@@ -21,8 +21,6 @@ jobs:
           submodules: 'recursive'
       - name: Install
         run: yarn install
-      - name: Get the Database
-        run: git submodule add https://github.com/efi-collection/database.git blog/efi && mv blog/efi/ blog/.vuepress/public/
       - name: Build
         run: yarn build
       - name: Deploy
