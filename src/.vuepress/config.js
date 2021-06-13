@@ -48,7 +48,31 @@ module.exports = {
           ],
         },
       ],
-    sidebar: false,
+    sidebar: [
+      // SidebarItem
+      {
+        text: 'Foo',
+        link: '/foo/',
+        children: [
+          // SidebarItem
+          {
+            text: 'github',
+            link: 'https://github.com',
+            children: [],
+          },
+          // string - page file path
+          '/disclamer/index.md',
+        ],
+      },
+      // SidebarGroup
+      {
+        isGroup: true,
+        text: 'Group',
+        children: ['/about/README.md', '/about/README.md'],
+      },
+      // string - page file path
+      '/about/README.md',
+    ],
 
     blog: {
       avatar: "/avatar.png",
