@@ -1,0 +1,74 @@
+name: Deploy
+on:
+  push:
+    branches-ignore:
+      - gh-pages
+  workflow_dispatch:
+  pull_request:
+jobs:
+  build:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+          persist-credentials: false
+          submodules: 'recursive'
+      - name: Install
+        run: yarn install
+      - name: Get the Database
+        run: git submodule add https://github.com/efi-collection/database.git blog/efi && mv blog/efi/ blog/.vuepress/public/
+      - name: Build
+        run: yarn build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master'}}
+        with:
+#          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: public
+          CLEAN: true
+  # lint:
+  #   name: Lint
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/setup-node@v2
+  #       with:
+  #         node-version: '14'
+  #     - name: Checkout Repository
+  #       uses: actions/checkout@v2
+  #       with:
+  #         fetch-depth: '0'
+  #         submodules: 'recursive'
+  #     - name: Install
+  #       run: yarn install
+  #     - name: Lint
+  #       run: yarn lint-ci
+  # spellcheck:
+  #   name: Spellcheck
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/setup-node@v2
+  #       with:
+  #         node-version: '14'
+  #     - name: Checkout Repository
+  #       uses: actions/checkout@v2
+  #       with:
+  #         fetch-depth: '0'
+  #         submodules: 'recursive'
+  #     - name: Install
+  #       run: yarn install
+  #     - name: Spellcheck
+  #       run: yarn spellcheck
+  #       continue-on-error: true
+  #     - name: Upload errors
+  #       uses: JamesIves/github-pages-deploy-action@4.1.4
+  #       with:
+  #         BRANCH: errors
+  #         FOLDER: errors
+  #         CLEAN: true

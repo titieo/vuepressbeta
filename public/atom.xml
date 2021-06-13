@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://vuepress-theme-hope.github.io/</id>
+  <title>EFI Collection</title>
+  <subtitle>Collection of Clover and OpenCore EFI for Hackintosher✨</subtitle>
+  <author>
+    <name>Cokaps</name>
+  </author>
+  <updated>2021-06-13T07:26:59.755Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://vuepress-theme-hope.github.io/atom.xml"/>
+  <link rel="alternate" href="https://vuepress-theme-hope.github.io/"/>
+  <rights>MIT Licensed | Copyright © 2021 Cokaps</rights>
+  <category term="OpenCore"/>
+  <contributor>
+    <name>Cokaps</name>
+  </contributor>
+  <contributor>
+    <name>Unknown</name>
+  </contributor>
+  <contributor>
+    <name>Liz Hoang</name>
+  </contributor>
+  <contributor>
+    <name>Tijmen</name>
+  </contributor>
+  <contributor>
+    <name>Nguyễn Minh Sơn</name>
+  </contributor>
+  <entry>
+    <title type="html">Home</title>
+    <id>https://vuepress-theme-hope.github.io/</id>
+    <link href="https://vuepress-theme-hope.github.io/"/>
+    <updated>2021-06-13T07:27:33.328Z</updated>
+    <content type="html"><![CDATA[$1]]></content>
+    <author>
+      <name>Cokaps</name>
+    </author>
+    <contributor>
+      <name>Cokaps</name>
+    </contributor>
+    <rights>Copyright by Cokaps</rights>
+  </entry>
+  <entry>
+    <title type="html">WEBSITE DISCLAIMER</title>
+    <id>https://vuepress-theme-hope.github.io/disclamer/</id>
+    <link href="https://vuepress-theme-hope.github.io/disclamer/"/>
+    <updated>2021-06-13T07:27:33.351Z</updated>
+    <content type="html"><![CDATA[<template><h1 id="introduction"> INTRODUCTION</h1>
+<p>The information provided by [business entity name] (“we,” “us” or “our”) on [website name] (the “Site”) [and our mobile application] is for general informational purposes only. All information on the Site [and our mobile application] is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site [or our mobile application].</p>
+<p>Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site [or our mobile application] or reliance on any information provided on the site [and our mobile application]. Your use of the site [and our mobile application] and your reliance on any information on the site [and our mobile application] is solely at your own risk. This disclaimer template was created using Termly.</p>
+<p>EXTERNAL LINKS DISCLAIMER FOR WEBSITE</p>
+<p>The Site [and our mobile application] may contain (or you may be sent through the Site [or our mobile application] links to other websites or content belonging to or originating from third parties or links to websites and features in banners or other advertising. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by us.</p>
+<p>We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through the site or any website or feature linked in any banner or other advertising. We will not be a party to or in any way be responsible for monitoring any transaction between you and third-party providers of products or services.</p>
+<p>PROFESSIONAL DISCLAIMER FOR WEBSITE</p>
+<p>The Site cannot and does not contain [medical/legal/fitness/health/other] advice. The [legal/medical/fitness/health/other] information is provided for general informational and educational purposes only and is not a substitute for professional advice.</p>
+<p>Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of [medical/legal/fitness/health/other] advice. The use or reliance of any information contained on this site [or our mobile application] is solely at your own risk.</p>
+<p>AFFILIATES DISCLAIMER FOR WEBSITE</p>
+<p>The Site [and our mobile application] may contain links to affiliate websites, and we receive an affiliate commission for any purchases made by you on the affiliate website using such links. Our affiliates include [_________________].</p>
+<p>We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn advertising fees by linking to Amazon.com and affiliated websites.</p>
+<p>TESTIMONIALS DISCLAIMER FOR WEBSITE</p>
+<p>The Site may contain testimonials by users of our products and/or services. These testimonials reflect the real-life experiences and opinions of such users. However, the experiences are personal to those particular users, and may not necessarily be representative of all users of our products and/or services. We do not claim, and you should not assume, that all users will have the same experiences. Your individual results may vary.</p>
+<p>The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted. They appear on the Site verbatim as given by the users, except for the correction of grammar or typing errors. Some testimonials may have been shortened for the sake of brevity where the full testimonial contained extraneous information not relevant to the general public.</p>
+<p>The views and opinions contained in the testimonials belong solely to the individual user and do not reflect our views and opinions. [We are not affiliated with users who provide testimonials, and users are not paid or otherwise compensated for their testimonials.]</p>
+<p>The testimonials on the Site are not intended, nor should they be construed, as claims that our products and/or services can be used to diagnose, treat, mitigate, cure, prevent or otherwise be used for any disease or medical condition. No testimonials have been clinically proven or evaluated.</p>
+</template>]]></content>
+    <author>
+      <name>Cokaps</name>
+    </author>
+    <contributor>
+      <name>Cokaps</name>
+    </contributor>
+    <rights>Copyright by Cokaps</rights>
+  </entry>
+  <entry>
+    <title type="html">I7-9700K + Z390 GAMING X</title>
+    <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i7-9700k-z390-gaming-x.html</id>
+    <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i7-9700k-z390-gaming-x.html"/>
+    <updated>2021-06-13T07:27:33.352Z</updated>
+    <content type="html"><![CDATA[<template><h2 id="made-by-unknown-collected-by-liz-hoang"> Made by Unknown (Collected by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a>)</h2>
+<h2 id="cau-hinh"> Cấu hình</h2>
+<ul>
+<li>CPU: I7-9700K + Z390 GAMING X</li>
+<li>dGPU: ???</li>
+<li>Bo mạch chủ: Z390 GAMING X</li>
+</ul>
+<h2 id="what-work"> What work?</h2>
+<ul>
+<li>Hầu hết đều hoạt động</li>
+</ul>
+<h2 id="tai-efi"> Tải EFI</h2>
+<form method="get" action="/efi/desktop/igpu-dgpu/opencore/i7-9700k-z390-gaming-x.zip">
+   <button type="submit"><i></i> Download EFI</button>
+</form>
+</template>]]></content>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <category term="OpenCore"/>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <rights>Copyright by Unknown</rights>
+  </entry>
+  <entry>
+    <title type="html">I9-9900K + Asus Z390-PRO GAMING + RT5700XT</title>
+    <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i9-9900K-Asus-z390-pro-gaming-rt5700xt.html</id>
+    <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/i9-9900K-Asus-z390-pro-gaming-rt5700xt.html"/>
+    <updated>2021-06-13T07:27:33.352Z</updated>
+    <content type="html"><![CDATA[<template><h2 id="made-by-unknown-collected-by-liz-hoang"> Made by Unknown (Collected by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a>)</h2>
+<h2 id="cau-hinh"> Cấu hình</h2>
+<ul>
+<li>CPU: I9-9900K</li>
+<li>dGPU:  RT5700XT</li>
+<li>Bo mạch chủ: Asus Z390-PRO GAMING</li>
+</ul>
+<h2 id="what-work"> What work?</h2>
+<ul>
+<li>Hầu hết đều hoạt động</li>
+</ul>
+<h2 id="tai-efi"> Tải EFI</h2>
+<form method="get" action="/efi/desktop/igpu-dgpu/opencore/i9-9900k-Asus-z390-pro-gaming-rt5700xt.zip">
+   <button type="submit"><i></i> Download EFI</button>
+</form>
+</template>]]></content>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <category term="OpenCore"/>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <rights>Copyright by Unknown</rights>
+  </entry>
+  <entry>
+    <title type="html">Ryzen 5 3500X + MSI B450M</title>
+    <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-5-3500x-msi-b450m.html</id>
+    <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-5-3500x-msi-b450m.html"/>
+    <updated>2021-06-13T07:27:33.352Z</updated>
+    <content type="html"><![CDATA[<template><h2 id="made-by-liz-hoang"> Made by <a href="https://lzhoang2601.github.io/" target="_blank" rel="noopener noreferrer">Liz Hoang</a></h2>
+<h2 id="cau-hinh"> Cấu hình</h2>
+<ul>
+<li>CPU: Ryzen 5 3500X</li>
+<li>dGPU: ???</li>
+<li>Bo mạch chủ:  MSI B450M</li>
+</ul>
+<h2 id="what-work"> What work?</h2>
+<ul>
+<li>Hầu hết đều hoạt động</li>
+</ul>
+<h2 id="tai-efi"> Tải EFI</h2>
+<form method="get" action="/efi/desktop/igpu-dgpu/opencore/ryzen-5-3500x-msi-b450m.zip">
+   <button type="submit"><i></i> Download EFI</button>
+</form>
+</template>]]></content>
+    <author>
+      <name>Liz Hoang</name>
+    </author>
+    <category term="OpenCore"/>
+    <contributor>
+      <name>Liz Hoang</name>
+    </contributor>
+    <rights>Copyright by Liz Hoang</rights>
+  </entry>
+  <entry>
+    <title type="html">Ryzen 7 1700 + RX570 + Asrock x370</title>
+    <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-7-1700-rx570-asrock-x370.html</id>
+    <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/ryzen-7-1700-rx570-asrock-x370.html"/>
+    <updated>2021-06-13T07:27:33.352Z</updated>
+    <content type="html"><![CDATA[<template><h2 id="made-by-tijmen"> Made by <a href="https://github.com/Tiemon-hoi" target="_blank" rel="noopener noreferrer">Tijmen</a></h2>
+<h2 id="cau-hinh"> Cấu hình</h2>
+<ul>
+<li>CPU: Ryzen 7 1700</li>
+<li>dGPU: AMD RX570</li>
+<li>Bo mạch chủ: Asrock x370</li>
+</ul>
+<h2 id="what-work"> What work?</h2>
+<ul>
+<li>Hầu hết đều hoạt động</li>
+</ul>
+<h2 id="tai-efi"> Tải EFI</h2>
+<form method="get" action="/efi/desktop/igpu-dgpu/opencore/ryzen-7-1700-rx570-asrock-x370.zip">
+   <button type="submit"><i></i> Download EFI</button>
+</form>
+</template>]]></content>
+    <author>
+      <name>Tijmen</name>
+    </author>
+    <category term="OpenCore"/>
+    <contributor>
+      <name>Tijmen</name>
+    </contributor>
+    <rights>Copyright by Tijmen</rights>
+  </entry>
+  <entry>
+    <title type="html">MSI Z490 Tomahawk</title>
+    <id>https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/z490%20tomahawk.html</id>
+    <link href="https://vuepress-theme-hope.github.io/article/opencore/Desktop/igpu-dgpu/z490%20tomahawk.html"/>
+    <updated>2021-06-13T07:27:33.352Z</updated>
+    <content type="html"><![CDATA[<template><h2 id="made-by-nguyen-minh-son"> Made by <a href="https://www.facebook.com/son01490517" target="_blank" rel="noopener noreferrer">Nguyễn Minh Sơn</a></h2>
+<h2 id="cau-hinh"> Cấu hình</h2>
+<ul>
+<li>CPU: Intel</li>
+<li>dGPU: ???</li>
+<li>Bo mạch chủ: MSI Z490 Tomahawk</li>
+</ul>
+<h2 id="what-work"> What work?</h2>
+<ul>
+<li>Hầu hết đều hoạt động</li>
+</ul>
+<h2 id="tai-efi"> Tải EFI</h2>
+<form method="get" action="/efi/desktop/igpu-dgpu/opencore/z490-tomahawk.zip">
+   <button type="submit"><i></i> Download EFI</button>
+</form>
+</template>]]></content>
+    <author>
+      <name>Nguyễn Minh Sơn</name>
+    </author>
+    <category term="OpenCore"/>
+    <contributor>
+      <name>Nguyễn Minh Sơn</name>
+    </contributor>
+    <rights>Copyright by Nguyễn Minh Sơn</rights>
+  </entry>
+</feed>
